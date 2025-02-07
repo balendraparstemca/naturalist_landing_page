@@ -21,7 +21,7 @@ Welcome to the **Animated Naturalist Chocolate Can Landing Page**! This project 
 
 ## 🎬 Demo
 
-Check out the live demo: [Live Demo](https://your-live-demo-link.com) *(Replace with your actual live demo link)*
+Check out the live demo: [Live Demo](https://mynaturalist.netlify.app/) *(Replace with your actual live demo link)*
 
 ## 🏗️ Installation & Usage
 
